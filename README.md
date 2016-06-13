@@ -5,6 +5,9 @@
 Most of these problems are taken from [exercism.io](http://exercism.io) !
 
 ![Il buono, il brutto, il cattivo](bon-la-brute-et-le-truand-1966-03-g.jpg)
+
+The exercises are ordered roughly in order of difficulty, but it's a bit
+haphazard.
  
 ## How to run tests locally?
 
